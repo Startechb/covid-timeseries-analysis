@@ -54,7 +54,7 @@ The interactive dashboard provides:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Startechbt
+   git clone https://github.com/Startechbt/covid-timeseries-analysis
    ```
 2. Open the analysis file (.Rmd or .ipynb).
 3. Run the dashboard script or open the published dashboard (link if deployed).
