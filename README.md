@@ -6,7 +6,9 @@ This project applies time series analysis and forecasting techniques to COVID-19
 
 The project explores active cases, recoveries, and deaths over time, and develops a forecasting model to project future case trends. An interactive dashboard was also created to provide a clear and user-friendly interface for exploring the insights.
 
----
+<a href="https://covid-timeseries-analysis.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-Click_Here-blue?style=for-the-badge&logo=github" />
+</a>
 
 ## Objectives
 
