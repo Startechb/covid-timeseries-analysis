@@ -9,7 +9,6 @@ const Dashboard = () => {
   const [selectedCountry, setSelectedCountry] = useState('Global');
   const [showForecast, setShowForecast] = useState(false);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
 
   // Load and process real CSV data
   useEffect(() => {
